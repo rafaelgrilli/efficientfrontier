@@ -38,11 +38,10 @@ This project goes **beyond the Code in Place curriculum** by integrating several
 | `ipywidgets`    | Interactive user input (tickers, dates, etc.) |
 | `IPython.display` | Clear and update output inside the notebook |
 
-## 📸 Screenshot
+## 📸 Example of chart output
 
-![Efficient Frontier Chart](example_output.png)
+![Efficient Frontier](https://github.com/user-attachments/assets/9ddf3246-5945-419c-a831-9340adde7a07)
 
-*(Add your own screenshot showing the simulation result in your notebook)*
 
 ## 📋 Usage
 
